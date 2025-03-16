@@ -1,10 +1,6 @@
-# About Me
-- 👋 Hi, I’m @Abdalla-Medhat.
-- 👀 I'm interested in Python, web scraping, and automation.
-- 🌱I am currently learning advanced new methods in web scraping, automation, and also learning HTML.
-- 📫 How to reach me: Mail me at: abdallahmedhat333@gmail.com
-
-<!---
-Abdalla-Medhat/Abdalla-Medhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Abdalla Medhat.
+💡 A passionate software developer focused on mobile app development with Flutter & Dart.
+🚀 I have experience in Python, particularly in Web Scraping & Automation, but my primary focus now is building high-performance mobile applications.
+📱 I’m currently working on multiple projects in mobile development, always eager to learn new skills and create innovative software solutions.
+🎯 My goal is to specialize in mobile development and work on outstanding projects that add real value to users.
+📫 Feel free to reach out to me via email: abdallahmedhat333@gmail.com
