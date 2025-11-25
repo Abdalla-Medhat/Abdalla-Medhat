@@ -15,10 +15,8 @@ About Me<br><br>👋 Hi, I’m Abdalla Medhat.<br><br>💡 A passionate software
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdalla-Medhat&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Abdalla-Medhat&icon=0&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
